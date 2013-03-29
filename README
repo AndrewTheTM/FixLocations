@@ -1,0 +1,16 @@
+This is an ArcMap add-in to fix things that have a coordinate location but not a point location in a feature layer.
+
+There is currently one button, and it does not have a button icon or anything.  That button fixes the shape based
+on the X and Y fields in the table.
+
+NOTE: To use this, you must edit the source.  The destination layer is hard-coded as CountStations.  You may also
+wish to change the X and Y fields to something else.
+
+NOTES FOR USE:
+This requires ArcMap 10.  Other versions may work.  You can get ArcMap from ESRI,
+www.esri.com.  Note that ArcMap is closed-source software, but this extension is
+open source.
+
+LICENSE: 2012 GPL v3
+
+Tags: ArcMap, ArcView, ESRI, transit
